@@ -1,0 +1,6 @@
+channel = 76
+reading_pipe = 0xF0F0F0F0E2
+writing_pipe = 0xF0F0F0F0E1
+
+server_event_url = "http://127.0.0.1:8000/event/"
+
